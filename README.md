@@ -45,11 +45,10 @@ python main.py
 
 ## Screenshots 📸
 
-![GUI Screenshot](![image](https://github.com/AshadullahDanish/Disease_Prediction_System/assets/77275155/cdff84e5-6239-4703-81c3-6f585162d2ce)
+![GUI Screenshot](![image](https://github.com/AshadullahDanish/Disease_Prediction_System/assets/77275155/cdff84e5-6239-4703-81c3-6f585162d2ce))
 
-![image](https://github.com/AshadullahDanish/Disease_Prediction_System/assets/77275155/ec54393a-5d76-4261-9833-7b711fedfab8)
 
-![GUI Screenshot](![image](https://github.com/AshadullahDanish/Disease_Prediction_System/assets/77275155/31bd199b-222c-45d4-8be9-e1801cd976fe)
+![GUI Screenshot](![image](https://github.com/AshadullahDanish/Disease_Prediction_System/assets/77275155/31bd199b-222c-45d4-8be9-e1801cd976fe))
 
 ## Contributing 👥
 
