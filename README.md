@@ -1,5 +1,4 @@
 
-```markdown
 # Disease Prediction Project 🤖💉
 
 Welcome to the Disease Prediction Project! This project utilizes machine learning models to predict diseases based on symptoms, achieving an impressive accuracy of approximately 95%. 🚀
@@ -37,8 +36,4 @@ Contributions are welcome! Feel free to open issues and pull requests.
 ## License 📝
 
 This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgements 🙌
-
-Special thanks to the contributors and open-source community for making this project possible. 🎉
 🚀
